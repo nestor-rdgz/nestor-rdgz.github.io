@@ -18,7 +18,7 @@
 # github_username: # your GitHub user name
 # gitlab_username: # your  GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
-ieee_id: https://ieeexplore.ieee.org/author/37089622350 # your ieeexplore.ieee.org/author/id
+ieee_id: 37089622350 # your ieeexplore.ieee.org/author/id
 # inspirehep_id: 1010907 # Inspire HEP author ID
 # instagram_id: # your instagram id
 # kaggle_id: # your kaggle id
@@ -34,7 +34,7 @@ orcid_id: 0000-0001-9982-1324 # your ORCID ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
-research_gate_profile: https://www.researchgate.net/profile/Nestor-Rodriguez-Perez # your profile on ResearchGate
+research_gate_profile: Nestor-Rodriguez-Perez # your profile on ResearchGate
 #rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: vvl1ipwAAAAJ&hl # your Google Scholar ID
 # scopus_id: # your profile on Scopus
