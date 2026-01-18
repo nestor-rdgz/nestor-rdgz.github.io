@@ -2,31 +2,30 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: 
     - name: Languages
-      value: English, German
+      value: English, Spanish
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Engineering Systems Modeling
+      institution: Comillas Pontifical University, Madrid, Spain
+      year: 2024
+    - title: MSc in Smart Grids
+      institution: University of Strathclyde, Glasgow, UK
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Qualified with Distinction.
+    - title: Master in Smart Grids
+      institution: Comillas Pontifical University, Madrid, Spain
+      year: 2020
+    - title: Master in Industrial Engineering
+      institution: Comillas Pontifical University, Madrid, Spain
+      year: 2020
+    - title: Bacherlor in Electromechanical Engineering
+      institution: Comillas Pontifical University, Madrid, Spain
+      year: 2018
 
 - title: Experience
   type: time_table
@@ -37,29 +36,12 @@
       description:
         - Description 1.
         - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
       description:
         - Description 1.
         - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
@@ -71,13 +53,10 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - Best PhD Thesis in Engineering Systems Modeling, Comillas Pontifical University.
+
 
 - title: Academic Interests
   type: nested_list
@@ -91,7 +70,7 @@
         - Description 1.
         - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
