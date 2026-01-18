@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: 
+      value: N. Rodriguez-Perez
     - name: Languages
       value: English, Spanish
 
@@ -30,25 +30,23 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Assistant Professor
+      institution: ICAI, Comillas Pontifical University, Madrid, Spain
+      year: 2024 - present
       description:
-        - Description 1.
-        - Description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Statistics
+        - Machine Learning
+        - Internet of Things
+    - title: Reseracher
+      institution: Institute for Research in Technology (IIT), Comillas Pontifical University, Madrid, Spain
+      year: September 2024 - present
+    - title: Postdoctoral Researcher
+      institution: Institute for Research in Technology (IIT), Comillas Pontifical University, Madrid, Spain
+      year: June 2024 - August 2024
+    - title: PhD Researcher
+      institution: Institute for Research in Technology (IIT), Comillas Pontifical University, Madrid, Spain
+      year: Oct 2020 - June 2024
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
@@ -61,14 +59,10 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Cybersecurity in Smart Grids
+    - title: ICT for Energy Systems
+    - title: TSO-DSO Coordination
+    
 
 # - title: Other Interests
 #   type: list
