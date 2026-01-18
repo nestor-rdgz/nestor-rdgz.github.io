@@ -389,13 +389,6 @@ ninja.data = [{
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{
-        id: 'social-ieee',
-        title: 'IEEE Xplore',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://ieeexplore.ieee.org/author/37089622350/", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
