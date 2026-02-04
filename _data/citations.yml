@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-01-26'
+  last_updated: '2026-02-04'
 papers:
   vvl1ipwAAAAJ:3fE2CSJIrl8C:
-    citations: 3
+    citations: 4
     title: Scalability Analysis of a Wireless M-Bus System for Smart Metering and Sensoring
     year: '2023'
   vvl1ipwAAAAJ:4DMP91E08xMC:
@@ -10,19 +10,19 @@ papers:
     title: Dynamic risk assessment tool for customer IoT infrastructures for smart grids
     year: '2023'
   vvl1ipwAAAAJ:4TOpqqG69KYC:
-    citations: 9
+    citations: 10
     title: 'Measuring the digitalisation of electricity distribution systems in Europe: Towards the smart grid'
     year: '2024'
   vvl1ipwAAAAJ:8k81kl-MbHgC:
-    citations: 37
+    citations: 38
     title: 'ICT architectures for TSO-DSO coordination and data exchange: a European perspective'
     year: '2022'
   vvl1ipwAAAAJ:KlAtU1dfN6UC:
-    citations: 2
+    citations: 3
     title: 'Confronting the Threat: Analysis of the Impact of MaDIoT Attacks in Two Power System Models'
     year: '2023'
   vvl1ipwAAAAJ:LkGwnXOMwfcC:
-    citations: 0
+    citations: 1
     title: Analysis of an edge-computing-based solution for local data processing at secondary substations
     year: '2021'
   vvl1ipwAAAAJ:M3ejUd6NZC8C:
@@ -54,11 +54,11 @@ papers:
     title: 'MaDIoT 3.0: Assessment of Attacks to Distributed Energy Resources and Demand in a Power System'
     year: '2025'
   vvl1ipwAAAAJ:kNdYIx-mwKoC:
-    citations: 0
+    citations: 1
     title: Dynamic risk assessment tool for customer IoT infrastructures for Smart Grids
     year: '2023'
   vvl1ipwAAAAJ:mVmsd5A6BfQC:
-    citations: 0
+    citations: 1
     title: Contribution to the analysis and evaluation of the digitalisation of smart grids
     year: '2024'
   vvl1ipwAAAAJ:u-x6o8ySG0sC:
