@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-04'
+  last_updated: '2026-02-16'
 papers:
   vvl1ipwAAAAJ:3fE2CSJIrl8C:
     citations: 4
@@ -10,13 +10,17 @@ papers:
     title: Dynamic risk assessment tool for customer IoT infrastructures for smart grids
     year: '2023'
   vvl1ipwAAAAJ:4TOpqqG69KYC:
-    citations: 10
+    citations: 11
     title: 'Measuring the digitalisation of electricity distribution systems in Europe: Towards the smart grid'
     year: '2024'
   vvl1ipwAAAAJ:8k81kl-MbHgC:
     citations: 38
     title: 'ICT architectures for TSO-DSO coordination and data exchange: a European perspective'
     year: '2022'
+  vvl1ipwAAAAJ:9ZlFYXVOiuMC:
+    citations: 0
+    title: 'Measuring the digitalisation of electricity distribution systems: towards the smart grid'
+    year: '2025'
   vvl1ipwAAAAJ:KlAtU1dfN6UC:
     citations: 3
     title: 'Confronting the Threat: Analysis of the Impact of MaDIoT Attacks in Two Power System Models'
@@ -33,6 +37,10 @@ papers:
     citations: 15
     title: Scalability Evaluation of a Modbus TCP Control and Monitoring System for Distributed Energy Resources
     year: '2022'
+  vvl1ipwAAAAJ:QIV2ME_5wuYC:
+    citations: 0
+    title: Confronting the Threat
+    year: '2023'
   vvl1ipwAAAAJ:ULOm3_A8WrAC:
     citations: 3
     title: 'Model the Path: Impact of Propagation Models on the Scalability Analysis of a Wireless M-Bus Sensoring System for Smart Grids'
@@ -52,6 +60,10 @@ papers:
   vvl1ipwAAAAJ:aqlVkmm33-oC:
     citations: 0
     title: 'MaDIoT 3.0: Assessment of Attacks to Distributed Energy Resources and Demand in a Power System'
+    year: '2025'
+  vvl1ipwAAAAJ:dhFuZR0502QC:
+    citations: 0
+    title: "Estimaci\xF3n Probabil\xEDstica del Riesgo en Redes El\xE9ctricas ante Ataques MaDIoT: Un Enfoque Multicapa"
     year: '2025'
   vvl1ipwAAAAJ:kNdYIx-mwKoC:
     citations: 1
