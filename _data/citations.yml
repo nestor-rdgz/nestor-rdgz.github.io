@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-16'
+  last_updated: '2026-03-16'
 papers:
   vvl1ipwAAAAJ:3fE2CSJIrl8C:
     citations: 4
@@ -10,7 +10,7 @@ papers:
     title: Dynamic risk assessment tool for customer IoT infrastructures for smart grids
     year: '2023'
   vvl1ipwAAAAJ:4TOpqqG69KYC:
-    citations: 11
+    citations: 13
     title: 'Measuring the digitalisation of electricity distribution systems in Europe: Towards the smart grid'
     year: '2024'
   vvl1ipwAAAAJ:8k81kl-MbHgC:
@@ -34,7 +34,7 @@ papers:
     title: "An\xE1lisis del impacto de ataques MaDIoT en dos modelos de sistemas el\xE9ctricos"
     year: '2024'
   vvl1ipwAAAAJ:MXK_kJrjxJIC:
-    citations: 15
+    citations: 16
     title: Scalability Evaluation of a Modbus TCP Control and Monitoring System for Distributed Energy Resources
     year: '2022'
   vvl1ipwAAAAJ:QIV2ME_5wuYC:
@@ -54,7 +54,7 @@ papers:
     title: Cluster Demo results evaluation and success metrics analysis Western Demo D9. 8
     year: '2023'
   vvl1ipwAAAAJ:_kc_bZDykSQC:
-    citations: 4
+    citations: 5
     title: 'ICT Scalability and Replicability Analysis for Smart Grids: Methodology and Application'
     year: '2024'
   vvl1ipwAAAAJ:aqlVkmm33-oC:
@@ -66,7 +66,7 @@ papers:
     title: "Estimaci\xF3n Probabil\xEDstica del Riesgo en Redes El\xE9ctricas ante Ataques MaDIoT: Un Enfoque Multicapa"
     year: '2025'
   vvl1ipwAAAAJ:kNdYIx-mwKoC:
-    citations: 1
+    citations: 2
     title: Dynamic risk assessment tool for customer IoT infrastructures for Smart Grids
     year: '2023'
   vvl1ipwAAAAJ:mVmsd5A6BfQC:
