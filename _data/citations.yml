@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-23'
+  last_updated: '2026-04-03'
 papers:
   vvl1ipwAAAAJ:3fE2CSJIrl8C:
     citations: 4
@@ -10,7 +10,7 @@ papers:
     title: Dynamic risk assessment tool for customer IoT infrastructures for smart grids
     year: '2023'
   vvl1ipwAAAAJ:4TOpqqG69KYC:
-    citations: 13
+    citations: 14
     title: 'Measuring the digitalisation of electricity distribution systems in Europe: Towards the smart grid'
     year: '2024'
   vvl1ipwAAAAJ:8k81kl-MbHgC:
@@ -58,7 +58,7 @@ papers:
     title: 'ICT Scalability and Replicability Analysis for Smart Grids: Methodology and Application'
     year: '2024'
   vvl1ipwAAAAJ:aqlVkmm33-oC:
-    citations: 0
+    citations: 1
     title: 'MaDIoT 3.0: Assessment of Attacks to Distributed Energy Resources and Demand in a Power System'
     year: '2025'
   vvl1ipwAAAAJ:dhFuZR0502QC:
