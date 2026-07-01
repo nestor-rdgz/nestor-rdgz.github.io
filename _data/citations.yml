@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-07-01'
 papers:
   vvl1ipwAAAAJ:3fE2CSJIrl8C:
     citations: 4
@@ -10,11 +10,11 @@ papers:
     title: Dynamic risk assessment tool for customer IoT infrastructures for smart grids
     year: '2023'
   vvl1ipwAAAAJ:4TOpqqG69KYC:
-    citations: 17
+    citations: 20
     title: 'Measuring the digitalisation of electricity distribution systems in Europe: Towards the smart grid'
     year: '2024'
   vvl1ipwAAAAJ:8k81kl-MbHgC:
-    citations: 41
+    citations: 42
     title: 'ICT architectures for TSO-DSO coordination and data exchange: a European perspective'
     year: '2022'
   vvl1ipwAAAAJ:9ZlFYXVOiuMC:
@@ -42,7 +42,7 @@ papers:
     title: Confronting the Threat
     year: '2023'
   vvl1ipwAAAAJ:ULOm3_A8WrAC:
-    citations: 3
+    citations: 4
     title: 'Model the Path: Impact of Propagation Models on the Scalability Analysis of a Wireless M-Bus Sensoring System for Smart Grids'
     year: '2023'
   vvl1ipwAAAAJ:Wp0gIr-vW9MC:
