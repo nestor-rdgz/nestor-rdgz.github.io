@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-13'
 papers:
   vvl1ipwAAAAJ:3fE2CSJIrl8C:
-    citations: 4
+    citations: 5
     title: Scalability Analysis of a Wireless M-Bus System for Smart Metering and Sensoring
     year: '2023'
   vvl1ipwAAAAJ:4DMP91E08xMC:
@@ -14,7 +14,7 @@ papers:
     title: 'Measuring the digitalisation of electricity distribution systems in Europe: Towards the smart grid'
     year: '2024'
   vvl1ipwAAAAJ:8k81kl-MbHgC:
-    citations: 42
+    citations: 44
     title: 'ICT architectures for TSO-DSO coordination and data exchange: a European perspective'
     year: '2022'
   vvl1ipwAAAAJ:9ZlFYXVOiuMC:
@@ -50,7 +50,7 @@ papers:
     title: "An\xE1lisis del impacto de ataques MaDIoT en dos modelos de sistemas el\xE9ctricos.[P\xF3ster]"
     year: '2024'
   vvl1ipwAAAAJ:YOwf2qJgpHMC:
-    citations: 0
+    citations: 1
     title: Cluster Demo results evaluation and success metrics analysis Western Demo D9. 8
     year: '2023'
   vvl1ipwAAAAJ:_kc_bZDykSQC:
