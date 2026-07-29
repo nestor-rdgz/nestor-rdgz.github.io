@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-17'
+  last_updated: '2026-07-29'
 papers:
   vvl1ipwAAAAJ:3fE2CSJIrl8C:
     citations: 5
@@ -34,7 +34,7 @@ papers:
     title: "An\xE1lisis del impacto de ataques MaDIoT en dos modelos de sistemas el\xE9ctricos"
     year: '2024'
   vvl1ipwAAAAJ:MXK_kJrjxJIC:
-    citations: 17
+    citations: 16
     title: Scalability Evaluation of a Modbus TCP Control and Monitoring System for Distributed Energy Resources
     year: '2022'
   vvl1ipwAAAAJ:QIV2ME_5wuYC:
@@ -66,11 +66,11 @@ papers:
     title: "Estimaci\xF3n Probabil\xEDstica del Riesgo en Redes El\xE9ctricas ante Ataques MaDIoT: Un Enfoque Multicapa"
     year: '2025'
   vvl1ipwAAAAJ:kNdYIx-mwKoC:
-    citations: 2
+    citations: 1
     title: Dynamic risk assessment tool for customer IoT infrastructures for Smart Grids
     year: '2023'
   vvl1ipwAAAAJ:mVmsd5A6BfQC:
-    citations: 1
+    citations: 2
     title: Contribution to the analysis and evaluation of the digitalisation of smart grids
     year: '2024'
   vvl1ipwAAAAJ:u-x6o8ySG0sC:
