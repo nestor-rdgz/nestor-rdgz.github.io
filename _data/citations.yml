@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-07'
 papers:
   vvl1ipwAAAAJ:3fE2CSJIrl8C:
-    citations: 5
+    citations: 4
     title: Scalability Analysis of a Wireless M-Bus System for Smart Metering and Sensoring
     year: '2023'
   vvl1ipwAAAAJ:4DMP91E08xMC:
@@ -10,9 +10,13 @@ papers:
     title: Dynamic risk assessment tool for customer IoT infrastructures for smart grids
     year: '2023'
   vvl1ipwAAAAJ:4TOpqqG69KYC:
-    citations: 20
+    citations: 22
     title: 'Measuring the digitalisation of electricity distribution systems in Europe: Towards the smart grid'
     year: '2024'
+  vvl1ipwAAAAJ:7PzlFSSx8tAC:
+    citations: 0
+    title: "Desaf\xEDos de la Ciberseguridad OT en la Era NIS2: Amenazas, IA y Brechas de Implementaci\xF3n"
+    year: '2026'
   vvl1ipwAAAAJ:8k81kl-MbHgC:
     citations: 45
     title: 'ICT architectures for TSO-DSO coordination and data exchange: a European perspective'
@@ -22,11 +26,15 @@ papers:
     title: 'Measuring the digitalisation of electricity distribution systems: towards the smart grid'
     year: '2025'
   vvl1ipwAAAAJ:KlAtU1dfN6UC:
-    citations: 3
+    citations: 4
     title: 'Confronting the Threat: Analysis of the Impact of MaDIoT Attacks in Two Power System Models'
     year: '2023'
+  vvl1ipwAAAAJ:L8Ckcad2t8MC:
+    citations: 0
+    title: Integration of an OT Cybersecurity Lab into an Industrial Automation Lab
+    year: '2025'
   vvl1ipwAAAAJ:LkGwnXOMwfcC:
-    citations: 1
+    citations: 0
     title: Analysis of an edge-computing-based solution for local data processing at secondary substations
     year: '2021'
   vvl1ipwAAAAJ:M3ejUd6NZC8C:
@@ -58,7 +66,7 @@ papers:
     title: 'ICT Scalability and Replicability Analysis for Smart Grids: Methodology and Application'
     year: '2024'
   vvl1ipwAAAAJ:aqlVkmm33-oC:
-    citations: 1
+    citations: 2
     title: 'MaDIoT 3.0: Assessment of Attacks to Distributed Energy Resources and Demand in a Power System'
     year: '2025'
   vvl1ipwAAAAJ:dhFuZR0502QC:
